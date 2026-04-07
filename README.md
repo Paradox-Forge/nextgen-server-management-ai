@@ -61,7 +61,7 @@ Backend'in çalışabilmesi için bir Google Gemini API anahtarına ihtiyacını
     - _Örnek:_ "Sohbet kanalında 'Hoşgeldiniz' mesajı at, 'Moderatör' isminde kırmızı bir rol aç ve yeni bir ses kanalı oluştur."
 4.  Gerekli işlemleri sistem saniyeler içinde sırayla yapacaktır.
 
-<img src="assets/images/ui.png" alt="Dashoard Page" width="600"/>
+<img src="assets/images/ui.png" alt="Nextgen Management Popup Screen" width="300"/>
 
 ---
 
