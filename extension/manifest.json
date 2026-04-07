@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "NextGen Guild AI",
+  "version": "1.0.0",
+  "description": "AI-powered Discord server manager directly within the client.",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "content_scripts": [
+    {
+      "js": ["src/content.tsx"],
+      "matches": ["https://discord.com/*"]
+    }
+  ],
+  "host_permissions": [
+    "https://discord.com/*"
+  ]
+}
