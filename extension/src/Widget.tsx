@@ -205,7 +205,7 @@ export const Widget = () => {
                 <Sparkles className="w-4 h-4 text-white" />
               </div>
               <div>
-                <h3 className="text-xs font-black text-white tracking-widest uppercase">God Mode API</h3>
+                <h3 className="text-xs font-black text-white tracking-widest uppercase">Nextgen Management</h3>
                 <p className="text-[8px] text-red-500 font-bold uppercase tracking-tighter">Authorized Access</p>
               </div>
             </div>
